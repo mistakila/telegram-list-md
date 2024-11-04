@@ -44,6 +44,7 @@ Ratingul canalelor Telegram în Moldova / Рейтинг Telegram каналов
 * [@md_sdet](https://t.me/md_sdet) - Moldovan SDET community
 * [@mpycom](https://t.me/mpycom) - Moldova Python Community
 * [@StartupMoldova](https://t.me/StartupMoldova) - Startup Moldova
+* [@HODLmd](https://t.me/hodlmd) - HODL Всё о крипте, под молдавским соусом
 
 ##### News and Mass Media / Новости и СМИ
 
